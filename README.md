@@ -34,3 +34,6 @@ The MindEvolve project is more than just a virtual reality experience; it's an e
 Beyond the ordering food scenario, I envision creating additional scenarios such as chatting with customers, dining with restaurants, etc. These environments will offer diverse scenarios, enabling users to practice social interactions in various contexts.
 #### 2. Enhanced Interactions with Users
 Expanding the depth of interactions with virtual characters and having an extensive and flexible dialogues are priorities. I will also work on incorporating more realistic dialogues and responses and having a virtual character within the environment to guide the user along the process. For example, displaying messages or having a virtual character checking on the user’s feelings during the experience.
+
+### Github
+Github page https://github.com/gwynylee/MindEvolve
